@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\10. ApplyBonusScore\bin\Debug\_10.ApplyBonusScore.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\10. ApplyBonusScore\bin\Debug\_10.ApplyBonusScore.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\10. ApplyBonusScore\bin\Debug\_10.ApplyBonusScore.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\10. ApplyBonusScore\obj\Debug\_10.ApplyBonusScore.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\10. ApplyBonusScore\obj\Debug\_10.ApplyBonusScore.pdb

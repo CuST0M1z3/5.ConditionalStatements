@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\5. DigitName\bin\Debug\_5.DigitName.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\5. DigitName\bin\Debug\_5.DigitName.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\5. DigitName\bin\Debug\_5.DigitName.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\5. DigitName\obj\Debug\_5.DigitName.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\5. DigitName\obj\Debug\_5.DigitName.pdb

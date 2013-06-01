@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\7.GreatesOfFive\bin\Debug\7.GreatesOfFive.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\7.GreatesOfFive\bin\Debug\7.GreatesOfFive.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\7.GreatesOfFive\bin\Debug\7.GreatesOfFive.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\7.GreatesOfFive\obj\Debug\7.GreatesOfFive.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\7.GreatesOfFive\obj\Debug\7.GreatesOfFive.pdb

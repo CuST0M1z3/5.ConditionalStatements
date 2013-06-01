@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\3. TheBiggestInteger\bin\Debug\_3.TheBiggestInteger.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\3. TheBiggestInteger\bin\Debug\_3.TheBiggestInteger.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\3. TheBiggestInteger\bin\Debug\_3.TheBiggestInteger.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\3. TheBiggestInteger\obj\Debug\_3.TheBiggestInteger.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\3. TheBiggestInteger\obj\Debug\_3.TheBiggestInteger.pdb

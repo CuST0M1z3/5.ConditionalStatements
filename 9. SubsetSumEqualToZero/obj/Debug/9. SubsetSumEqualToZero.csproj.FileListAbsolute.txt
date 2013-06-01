@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\bin\Debug\_9.SubsetSumEqualToZero.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\bin\Debug\_9.SubsetSumEqualToZero.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\bin\Debug\_9.SubsetSumEqualToZero.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\obj\Debug\9. SubsetSumEqualToZero.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\obj\Debug\_9.SubsetSumEqualToZero.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\9. SubsetSumEqualToZero\obj\Debug\_9.SubsetSumEqualToZero.pdb

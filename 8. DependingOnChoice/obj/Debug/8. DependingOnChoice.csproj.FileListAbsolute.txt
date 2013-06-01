@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\bin\Debug\_8.DependingOnChoice.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\obj\Debug\8. DependingOnChoice.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\bin\Debug\_8.DependingOnChoice.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\bin\Debug\_8.DependingOnChoice.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\obj\Debug\_8.DependingOnChoice.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\8. DependingOnChoice\obj\Debug\_8.DependingOnChoice.pdb

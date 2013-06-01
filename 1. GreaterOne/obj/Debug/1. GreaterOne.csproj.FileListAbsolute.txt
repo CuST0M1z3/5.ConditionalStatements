@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\bin\Debug\_1.GreaterOne.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\bin\Debug\_1.GreaterOne.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\bin\Debug\_1.GreaterOne.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\obj\Debug\1. GreaterOne.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\obj\Debug\_1.GreaterOne.exe
+C:\Users\SpooN\Desktop\C#Homeworks\5. ConditionalStatements\1. GreaterOne\obj\Debug\_1.GreaterOne.pdb
